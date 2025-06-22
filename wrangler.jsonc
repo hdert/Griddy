@@ -1,0 +1,7 @@
+{
+  "name": "griddy",
+  "compatibility_date": "2025-06-22",
+  "assets": {
+    "directory": "./build"
+  }
+}
